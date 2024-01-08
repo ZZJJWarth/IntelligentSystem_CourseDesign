@@ -38,4 +38,4 @@ def check_is_there_ant(index):
             return True, ans[1]
         else:
             continue
-    return False
+    return False,-114514
